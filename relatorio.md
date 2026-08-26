@@ -370,34 +370,36 @@ As alterações realizadas garantem uma melhor experiência para o usuário, evi
 
 Além das correções funcionais, a implementação de regras de segurança no Firestore representa uma melhoria essencial para proteger os dados armazenados no sistema contra acessos não autorizados.
 
+## 6. Imagens de errors
+## Error 1
 ![Error 1](./img/error1.png)
-
+## Error 2
 ![Error 2](./img/error2.png)
-
+## Error 3
 ![Error 3](./img/error3.png)
-
+## Error 4
 ![Error 4](./img/error4.png)
-
+## Error 5
 ![Error 5](./img/error5.png)
-
+## Error 6
 ![Error 6](./img/error6.png)
-
+## Error 7
 ![Error 7](./img/error7.png)
-
+## Error 8
 ![Error 8](./img/error8.png)
-
+## Solução 1
 ![Solução 1](./img/sol1.png)
-
+## Solução 2
 ![Solução 2](./img/sol2.png)
-
+## Solução 3
 ![Solução 3](./img/sol3.png)
-
+## Solução 4
 ![Solução 4](./img/sol4.png)
-
+## Solução 5
 ![Solução 5](./img/sol5.png)
-
+## Solução 6
 ![Solução 6](./img/sol6.png)
-
+## Solução 7
 ![Solução 7](./img/sol7.png)
-
+## Solução 8
 ![Solução 8](./img/sol8.png)
